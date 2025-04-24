@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g2a-warning.org/sitemap.xml
